@@ -1,5 +1,5 @@
 # platformSites.github.io
-[![https://maksim900.github.io/status-offline.png]Ошибка
+[![NPM Version][npm-version-image]][npm-url]
 ```
 Сайт в данный момент обнавляется
 ```
