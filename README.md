@@ -1,6 +1,5 @@
 # platformSites.github.io
-[![NPM Version][npm-version-image]][npm-url]
-[Ошибка](https://maksim990.github.io/status-offline.png)
+[Ошибка](https://platformSites.github.io/404.html)
 ```
-Сайт в данный момент обнавляется
+Если что, это ссылка
 ```
